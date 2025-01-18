@@ -18,6 +18,8 @@ dependencies:
   go_router: ^14.2.3
   aligned_dialog: ^0.0.7
   shared_preferences: ^2.2.3
+  openid_client: ^0.4.8
+  http: ^1.2.2
 
 dev_dependencies:
   flutter_test:
